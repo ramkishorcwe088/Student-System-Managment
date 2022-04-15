@@ -17,7 +17,8 @@ git init
 
 
 untracked file to for all file add in  stazing   area
-$ git add --a
+$ git add --a       //comit k liye staze all files
+git add Text Document.txt   ////comit k liye staze individual file
 
 
 for all file add in  stazing   area
